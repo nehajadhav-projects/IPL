@@ -35,7 +35,12 @@ ________________________________________
 5.	Insights Presentation: Structure the insights into a visually appealing and interactive format to captivate fans and analysts.
   ________________________________________
 ## Dashboard
-https://github.com/nehajadhav-projects/IPL/blob/main/opener1.png
+![opener1](https://github.com/user-attachments/assets/bc3acfdf-ef8e-4943-9f55-24d6f385e3f3)
+![anchors2](https://github.com/user-attachments/assets/081f06fc-6a62-43af-82d9-7a03c842589d)
+![finishers 3](https://github.com/user-attachments/assets/e5d47db4-634d-48f1-a26c-6c09cefdf49e)
+![all rounders4](https://github.com/user-attachments/assets/cd106a85-f515-4fff-ba1f-3791535789df)
+![Specialist Fast Bowlers 5](https://github.com/user-attachments/assets/7ba6a73d-0793-4058-aecb-b890fd65fc2a)
+![Final6](https://github.com/user-attachments/assets/84941160-dba1-4a99-9f23-ac6edbebbea7)
 
 ________________________________________
 ## Key Insights
