@@ -36,17 +36,17 @@ ________________________________________
   ________________________________________
 ## Dashboard
 Openers
-![opener1](https://github.com/user-attachments/assets/bc3acfdf-ef8e-4943-9f55-24d6f385e3f3)
+![opener1](https://github.com/user-attachments/assets/fe39eddd-19e5-4ff8-a1d3-7dd2e1e3dbdc)
 Anchors
-![anchors2](https://github.com/user-attachments/assets/081f06fc-6a62-43af-82d9-7a03c842589d)
+![anchors2](https://github.com/user-attachments/assets/17d3ee00-b56b-422b-adcb-b4ccae6e9af3)
 Finishers
-![finishers 3](https://github.com/user-attachments/assets/e5d47db4-634d-48f1-a26c-6c09cefdf49e)
+![finishers 3](https://github.com/user-attachments/assets/f8c55a84-a8cc-46f2-93ad-7ffcf1faac81)
 All Rounders
-![all](https://github.com/user-attachments/assets/173da854-b51d-4ef5-9f6b-8e902728e3bf)
+![all](https://github.com/user-attachments/assets/4737277a-41a3-424c-9e18-226b5ee8909b)
 Specialist Fast Bowlers
-![sfb](https://github.com/user-attachments/assets/fff7a136-863e-4b43-b78b-748e4c79f55c)
+![sfb](https://github.com/user-attachments/assets/8109585f-b819-42ed-a620-9aa396d839ec)
 Final
-![Final6](https://github.com/user-attachments/assets/84941160-dba1-4a99-9f23-ac6edbebbea7)
+![Screenshot 2025-01-20 094640](https://github.com/user-attachments/assets/14e388a9-35ca-47d6-ab45-8629d95d26de)
 
 ________________________________________
 ## Key Insights
