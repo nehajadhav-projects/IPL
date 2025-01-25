@@ -20,44 +20,47 @@ How can IPL player performance data from the past three years be analyzed and vi
 ________________________________________
 ## Tools and Approach
 - Tools:
-•	Power BI: For data modeling, interactive dashboards, and visualization.
-•	Data sources: Historical IPL performance data (batting, bowling, team stats, etc.).
+1.	Power BI: For data modeling, interactive dashboards, and visualization.
+2.	Data sources: Historical IPL performance data (batting, bowling, team stats, etc.).
 - Approach:
 1.	Data Collection: Compile data on IPL player performance over the last three years, categorizing players by roles.
 2.	Data Cleaning and Transformation: Organize the data into meaningful categories such as openers, finishers, anchors, bowlers, and all-rounders.
 3.	Dashboard Design:
-o	Create role-specific dashboards to highlight batting averages, strike rates, boundary percentages, bowling economy, and wickets.
-o	Include visualizations like scatter plots, bar charts, and line graphs to identify trends and comparisons.
+- Create role-specific dashboards to highlight batting averages, strike rates, boundary percentages, bowling economy, and wickets.
+- Include visualizations like scatter plots, bar charts, and line graphs to identify trends and comparisons.
 4.	Analysis:
-o	Identify top-performing players in various categories.
-o	Spot trends in player performance and provide insights on consistency and efficiency.
-o	Highlight strengths and weaknesses across batting and bowling styles.
+- Identify top-performing players in various categories.
+- Spot trends in player performance and provide insights on consistency and efficiency.
+- Highlight strengths and weaknesses across batting and bowling styles.
 5.	Insights Presentation: Structure the insights into a visually appealing and interactive format to captivate fans and analysts.
+  ________________________________________
+## Dashboard
+
 ________________________________________
 ## Key Insights
 - Batting Analysis:
 1.	Openers:
-o	Yashasvi Jaiswal has a high strike rate (152.15%) and boundary percentage (74.56%), making him one of the most aggressive openers.
-o	Faf du Plessis is a consistent run scorer with the highest runs (1831) among openers but has a slightly lower boundary percentage.
+-	Yashasvi Jaiswal has a high strike rate (152.15%) and boundary percentage (74.56%), making him one of the most aggressive openers.
+-	Faf du Plessis is a consistent run scorer with the highest runs (1831) among openers but has a slightly lower boundary percentage.
 2.	Finishers:
-o	Andre Russell dominates as a finisher with a remarkable strike rate and bowling contributions.
-- Bowling Analysis:
-•	Andre Russell leads in wicket-taking ability among finishers (35 wickets) with a bowling strike rate of 10.69, making him an exceptional all-rounder.
-•	Sam Curran stands out in economy and consistency among all-rounders.
-- Role-based Trends:
-•	Strike rates and boundary percentages are generally higher for aggressive openers and finishers.
-•	Dot ball percentages and economy rates highlight bowlers’ efficiency under pressure.
+-	Andre Russell dominates as a finisher with a remarkable strike rate and bowling contributions.
+3. Bowling Analysis:
+- Andre Russell leads in wicket-taking ability among finishers (35 wickets) with a bowling strike rate of 10.69, making him an exceptional all-rounder.
+-	Sam Curran stands out in economy and consistency among all-rounders.
+4. Role-based Trends:
+-	Strike rates and boundary percentages are generally higher for aggressive openers and finishers.
+-	Dot ball percentages and economy rates highlight bowlers’ efficiency under pressure.
 ________________________________________
 ## Recommendations
 1.	For Teams:
-o	Utilize data to identify players who excel in specific roles (e.g., Yashasvi Jaiswal for opening, Andre Russell for finishing).
-o	Build strategies based on strengths such as boundary hitting or tight bowling economy.
+-	Utilize data to identify players who excel in specific roles (e.g., Yashasvi Jaiswal for opening, Andre Russell for finishing).
+-	Build strategies based on strengths such as boundary hitting or tight bowling economy.
 2.	For Fans:
-o Promote compelling narratives around top players' performances to drive fan engagement.
-o	Share insights via social media and blogs to attract a wider audience.
+- Promote compelling narratives around top players' performances to drive fan engagement.
+-	Share insights via social media and blogs to attract a wider audience.
 3.	For the Magazine:
-o	Include "Player Profiles" with key statistics and visuals for top-performing players.
-o	Create sections comparing past and present trends, highlighting rising stars.
+-	Include "Player Profiles" with key statistics and visuals for top-performing players.
+-	Create sections comparing past and present trends, highlighting rising stars.
 ________________________________________
 ## What We Have Learned
 1.	Power BI is a powerful tool for transforming raw data into actionable insights and creating engaging visuals.
