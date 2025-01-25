@@ -35,6 +35,7 @@ ________________________________________
 5.	Insights Presentation: Structure the insights into a visually appealing and interactive format to captivate fans and analysts.
   ________________________________________
 ## Dashboard
+https://github.com/nehajadhav-projects/IPL/blob/main/opener1.png
 
 ________________________________________
 ## Key Insights
